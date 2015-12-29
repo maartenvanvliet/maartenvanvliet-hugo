@@ -1,7 +1,7 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
 title = "Blog"
-
+publishdir= "public"
 
 # Metadata format
 # "yaml", "toml", "json"
