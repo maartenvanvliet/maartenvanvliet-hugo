@@ -5,6 +5,10 @@ title = "about"
 
 +++
 
-## A headline
+## Software Consultant
 
-Some Content
+Specialized in Agile development in Ruby. Eloquent in languages such as PHP/Elixir/R/Javascript/Python and others.
+
+As a consultant I advice and implement clients in the development of software. I have extensive knowledge of web technologies and know my way around data.
+
+
